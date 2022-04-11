@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="lib">
+    <archive path="C:/Users/Dawid/IdeaProjects/TPO/TPO2_WD_S22980/lib/jsoup-1.14.3.jar" />
+    <archive path="C:/Users/Dawid/IdeaProjects/TPO/TPO2_WD_S22980/lib/json-simple-1.1.jar" />
+  </library>
+  <library name="lib1">
+    <archive path="C:/Users/Dawid/IdeaProjects/TPO/TPO2_WD_S22980/lib/javafx-sdk-18/lib/javafx-swt.jar" />
+    <archive path="C:/Users/Dawid/IdeaProjects/TPO/TPO2_WD_S22980/lib/javafx-sdk-18/lib/javafx.web.jar" />
+    <archive path="C:/Users/Dawid/IdeaProjects/TPO/TPO2_WD_S22980/lib/javafx-sdk-18/lib/javafx.base.jar" />
+    <archive path="C:/Users/Dawid/IdeaProjects/TPO/TPO2_WD_S22980/lib/javafx-sdk-18/lib/javafx.fxml.jar" />
+    <archive path="C:/Users/Dawid/IdeaProjects/TPO/TPO2_WD_S22980/lib/javafx-sdk-18/lib/javafx.media.jar" />
+    <archive path="C:/Users/Dawid/IdeaProjects/TPO/TPO2_WD_S22980/lib/javafx-sdk-18/lib/javafx.swing.jar" />
+    <archive path="C:/Users/Dawid/IdeaProjects/TPO/TPO2_WD_S22980/lib/javafx-sdk-18/lib/javafx.controls.jar" />
+    <archive path="C:/Users/Dawid/IdeaProjects/TPO/TPO2_WD_S22980/lib/javafx-sdk-18/lib/javafx.graphics.jar" />
+  </library>
+</eclipse-userlibraries>
+
