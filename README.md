@@ -24,7 +24,6 @@ ________________________________________________________________________________
   4. Browser represents the city entered in the menu.
 
   **WARNING**
-  
 API requires you to have an API key that can be obtained for free from https://api.openweathermap.org and put it in as an argument to run a program.
 
 __________________________________________________________________________________________________________________
