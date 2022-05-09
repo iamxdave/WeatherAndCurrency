@@ -1,7 +1,7 @@
 # WeatherAndCurrency
 Swing application that let you check the current weather and currency in the city. 
 
-__________________________________________________________________________________________________________________
+<hr>
 
 <p align="center">
   <img src=https://user-images.githubusercontent.com/74014874/162787457-33b5fe0d-2d92-488e-898d-a14fb5d6a928.png
@@ -25,7 +25,7 @@ ________________________________________________________________________________
 
   **API requires you to have an API key that can be obtained for free from https://api.openweathermap.org and put it in as an argument to run a program.**
 
-__________________________________________________________________________________________________________________
+<hr>
 
 <p align="center">
   <img src= https://user-images.githubusercontent.com/74014874/162789759-c3b03760-0729-459b-a219-a9439c30a0ed.png
