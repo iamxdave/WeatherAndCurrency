@@ -10,7 +10,7 @@ Swing application that let you check the current weather and currency in the cit
 
 
 
-# How does it work
+## How does it work
 
   1. Run program and put correct parameters in the input panel (wrong parameters won't be accepted!)
 
